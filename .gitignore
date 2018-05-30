@@ -1,0 +1,49 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+
+# Custom ignore files
+*.DS_Store
+*.sdf
+*.opensdf
+
+# Custom ignore paths
+.svn
+.vs
+Debug.win32
+/Project/Engines/cocos2dx/proj.ios/build
+/Project/Engines/projects/iOSLongCZ/GameLibrary/build
+/Project/Engines/projects/iOSLongCZ/proj.ios/build
+/Project/Code/GameProj/proj.win32/Debug.win32
+/Project/Code/GameProj/proj.android/assets
+/Project/Code/GameProj/proj.android/obj
+/Project/Code/GameProj/proj.android/bin
+/Project/Code/GameProj/proj.android/libs/armeabi/libgame.so
+*.tlog
+*.log
+*.bi
+*.obj
+*.pdb
+*.lastbuildstate
+*.cache
+Debug
+Release
+*.class
+*.o.d
+Temp
+cache
+X1Client/Library
+/X1Client/Assets/StreamingAssets
+/X1Client/Assets/files.txt
+/X1Client/Assets/filesapp.txt
+build
+bin
+logs
